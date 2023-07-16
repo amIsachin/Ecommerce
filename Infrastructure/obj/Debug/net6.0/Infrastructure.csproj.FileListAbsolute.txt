@@ -1,0 +1,15 @@
+S:\.Net\web-apps\Ecommerce\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+S:\.Net\web-apps\Ecommerce\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+S:\.Net\web-apps\Ecommerce\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+S:\.Net\web-apps\Ecommerce\Infrastructure\bin\Debug\net6.0\Domain.dll
+S:\.Net\web-apps\Ecommerce\Infrastructure\bin\Debug\net6.0\Domain.pdb
+S:\.Net\web-apps\Ecommerce\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+S:\.Net\web-apps\Ecommerce\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+S:\.Net\web-apps\Ecommerce\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+S:\.Net\web-apps\Ecommerce\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+S:\.Net\web-apps\Ecommerce\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+S:\.Net\web-apps\Ecommerce\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+S:\.Net\web-apps\Ecommerce\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+S:\.Net\web-apps\Ecommerce\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+S:\.Net\web-apps\Ecommerce\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+S:\.Net\web-apps\Ecommerce\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
