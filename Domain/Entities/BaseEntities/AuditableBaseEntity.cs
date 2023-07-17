@@ -2,5 +2,5 @@
 
 public class AuditableBaseEntity
 {
-    public DateTime CreatedOn { get; set; }
+    public DateTime CreatedOn { get; set; } = DateTime.Now;
 }

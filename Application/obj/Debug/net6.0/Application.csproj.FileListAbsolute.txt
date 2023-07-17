@@ -10,3 +10,8 @@ S:\.Net\web-apps\Ecommerce\Application\obj\Debug\net6.0\Application.dll
 S:\.Net\web-apps\Ecommerce\Application\obj\Debug\net6.0\refint\Application.dll
 S:\.Net\web-apps\Ecommerce\Application\obj\Debug\net6.0\Application.pdb
 S:\.Net\web-apps\Ecommerce\Application\obj\Debug\net6.0\ref\Application.dll
+S:\.Net\web-apps\Ecommerce\Application\bin\Debug\net6.0\Domain.dll
+S:\.Net\web-apps\Ecommerce\Application\bin\Debug\net6.0\Infrastructure.dll
+S:\.Net\web-apps\Ecommerce\Application\bin\Debug\net6.0\Infrastructure.pdb
+S:\.Net\web-apps\Ecommerce\Application\bin\Debug\net6.0\Domain.pdb
+S:\.Net\web-apps\Ecommerce\Application\obj\Debug\net6.0\Application.csproj.CopyComplete

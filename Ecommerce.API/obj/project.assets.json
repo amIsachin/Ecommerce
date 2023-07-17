@@ -867,6 +867,19 @@
           }
         }
       },
+      "Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.dll": {}
+        }
+      },
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2448,6 +2461,11 @@
         "version.txt"
       ]
     },
+    "Application/1.0.0": {
+      "type": "project",
+      "path": "../Application/Application.csproj",
+      "msbuildProject": "../Application/Application.csproj"
+    },
     "Domain/1.0.0": {
       "type": "project",
       "path": "../Domain/Domain.csproj",
@@ -2461,6 +2479,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Application >= 1.0.0",
       "Infrastructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.0",
@@ -2496,6 +2515,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "S:\\.Net\\web-apps\\Ecommerce\\Application\\Application.csproj": {
+              "projectPath": "S:\\.Net\\web-apps\\Ecommerce\\Application\\Application.csproj"
+            },
             "S:\\.Net\\web-apps\\Ecommerce\\Infrastructure\\Infrastructure.csproj": {
               "projectPath": "S:\\.Net\\web-apps\\Ecommerce\\Infrastructure\\Infrastructure.csproj"
             }

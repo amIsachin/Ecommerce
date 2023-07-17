@@ -8,7 +8,7 @@ public class UserEntity : PersonBaseEntity
     [Key]
     public int UserId { get; set; }
 
-    public int PhoneNumber { get; set; }
+    public string PhoneNumber { get; set; } = string.Empty;
 
     public string Address { get; set; } = string.Empty;
 

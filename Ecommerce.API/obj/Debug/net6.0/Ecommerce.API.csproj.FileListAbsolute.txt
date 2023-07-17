@@ -67,3 +67,5 @@ S:\.Net\web-apps\Ecommerce\Ecommerce.API\obj\Debug\net6.0\refint\Ecommerce.API.d
 S:\.Net\web-apps\Ecommerce\Ecommerce.API\obj\Debug\net6.0\Ecommerce.API.pdb
 S:\.Net\web-apps\Ecommerce\Ecommerce.API\obj\Debug\net6.0\Ecommerce.API.genruntimeconfig.cache
 S:\.Net\web-apps\Ecommerce\Ecommerce.API\obj\Debug\net6.0\ref\Ecommerce.API.dll
+S:\.Net\web-apps\Ecommerce\Ecommerce.API\bin\Debug\net6.0\Application.dll
+S:\.Net\web-apps\Ecommerce\Ecommerce.API\bin\Debug\net6.0\Application.pdb
