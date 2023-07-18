@@ -12,5 +12,5 @@ public class UserEntity : PersonBaseEntity
 
     public string Address { get; set; } = string.Empty;
 
-    public ICollection<BookedProductEntity>? BookedProductEntity { get; set; }
+    //public ICollection<BookedProductEntity>? BookedProductEntity { get; set; }
 }

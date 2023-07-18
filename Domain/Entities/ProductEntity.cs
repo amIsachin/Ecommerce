@@ -14,5 +14,5 @@ public class ProductEntity : AuditableBaseEntity
 
     public decimal Price { get; set; }
 
-    public ICollection<BookedProductEntity>? BookedProductEntity { get; set; }
+    //public ICollection<BookedProductEntity>? BookedProductEntity { get; set; }
 }
